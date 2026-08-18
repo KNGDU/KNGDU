@@ -1,27 +1,33 @@
 ### Olá, sou Samuel Lomba 👋
 
-Full Stack Developer — atuo na interseção entre desenvolvimento web, automação de sistemas e IA aplicada a workflows reais.
+**Biomédico habilitado em Patologia Clínica e Desenvolvedor Full Stack**, com atuação dupla em saúde e tecnologia.
 
-- 🔭 **Atualmente:** desenvolvendo projetos de e-commerce e sites institucionais em Next.js/TypeScript com CMS headless (Sanity), e atuando há 7 anos com automação comercial e sistemas de gestão empresarial
-- 🧠 **Stack de IA:** uso de ferramentas de IA generativa no fluxo de desenvolvimento (Claude, Figma Make) e chatbots em Python
-- ☁️ **Cloud:** AWS Academy Graduate — Cloud Foundations
-- 📱 **Mobile:** Flutter/Dart
+Experiência clínica em UTI, clínica médica e urgência/emergência, e há 7 anos atuando como tecnólogo com automação comercial em sistemas de gestão empresarial, banco de dados, IA engineering e suporte técnico. Minha atuação combina desenvolvimento web, integração de sistemas e Inteligência Artificial aplicada à saúde e a processos de negócio.
+
+- 🔬 **Saúde:** Patologia Clínica · IA aplicada a diagnóstico laboratorial
+- 💻 **Tech:** Full Stack (React/Next.js, PHP, Python) · automação de sistemas de gestão · segurança de aplicações web
+- 🎯 **Buscando:** oportunidades como **Desenvolvedor Full Stack** ou **Especialista em Automação com IA**, preferencialmente unindo TI e saúde — modelo remoto
 - 💼 [LinkedIn](https://www.linkedin.com/in/samuel-lomba-9a0115287) · 📷 [Instagram](https://www.instagram.com/smucalomba)
 
 ---
 
-#### Projetos em destaque
+#### Projetos e trabalhos em destaque
 
 | Projeto | Descrição | Stack |
 |---|---|---|
-| **Desejo Secreto** *(em desenvolvimento)* | E-commerce completo com CMS headless, carrinho, checkout via WhatsApp e verificação de idade | Next.js · TypeScript · Tailwind · Sanity CMS |
-| **Gift Aluguéis** *(em desenvolvimento)* | Site institucional para empresa de locação de equipamentos para eventos | Next.js · TypeScript · Tailwind · Prisma · PostgreSQL |
+| **Artigo científico — CIEACE 2025** | "Diagnóstico de leucemia con apoyo de IA: el papel del aprendizaje automático en la citometría de flujo" — apresentado no VIII Congreso Internacional CIEACE, unindo Patologia Clínica e Machine Learning | Machine Learning · Citometria de Fluxo |
+| **Desejo Secreto** *(em desenvolvimento)* | E-commerce completo: carrinho dinâmico, checkout via WhatsApp, verificação de idade e auditoria de segurança própria (vulnerabilidades críticas corrigidas antes do deploy) | React · Tailwind · Sanity CMS |
+| **Gift Aluguéis** *(em desenvolvimento)* | Documento de arquitetura de software e reconstrução de sistema institucional para empresa de locação de equipamentos para eventos | Next.js · TypeScript · Prisma · PostgreSQL |
 | **Gestor Max** | Plataforma de cursos de administração e contabilidade empresarial, com chatbot integrado | Flutter · Dart · Python |
-| **Backup Automático FDB** *(uso interno)* | Aplicativo web para backup automático de bases de dados Firebird (.fdb), com sincronização para o Google Drive | Python · JSON · Google Drive API |
+| **Backup Automático FDB** *(uso interno)* | Aplicativo web para backup automático de bases Firebird (.fdb), com sincronização para o Google Drive | Python · JSON · Google Drive API |
+| **Pipeline de conteúdo audiovisual com IA** | Produção de vídeos com ferramentas de IA generativa | Kling AI · Adobe Firefly · Pika Labs · ElevenLabs |
 
 ---
 
-#### Stack
+#### Competências
 
-`TypeScript` `JavaScript` `Python` `Dart` `React` `Next.js` `Flutter` `Tailwind CSS` `PHP` `PostgreSQL` `MariaDB` `Firebird` `Prisma` `Sanity CMS` `AWS`
+`PHP` `JavaScript` `HTML` `Python` `Dart` `Firebird` `MariaDB` `PostgreSQL` `React` `Tailwind CSS` `TypeScript` `Next.js` `Flutter` `Sanity CMS` `AWS (Cloud Foundations)` `Automação de Sistemas de Gestão` `Segurança de Aplicações Web`
 
+---
+
+Perfil analítico, formação sólida em ciências da saúde e tecnologia, e autonomia para transformar necessidades de negócio e clínicas em soluções documentadas, funcionais e seguras.
